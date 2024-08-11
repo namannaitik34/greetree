@@ -1,0 +1,56 @@
+.navbar{
+    width: auto;
+    height: 100px;
+    
+}
+.d-flex{
+
+}
+.greetree{
+    background: -webkit-linear-gradient(rgb(188, 12, 241), rgb(15, 239, 48));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 3rem;
+    font-weight: bolder; 
+    letter-spacing: 3px;
+
+  }
+.container-fluid{
+    justify-content: center;
+}
+.nav-link{
+  font-size: 20px;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto ;
+    padding: 25px;
+    justify-content: center;
+  }
+.grid-item {
+    font-size: 30px;
+    text-align: center;
+    padding: 30px;
+    
+    
+  }
+.flex-col{
+    width: auto;
+    height:auto;
+    background-image: linear-gradient(rgb(243, 224, 87),white);
+    filter: blur(30%);
+    border-radius: 8%;
+    margin-top: 50px;
+  }
+.p-2{
+  border-radius: ;
+}
+.carousel-slide{
+  width: 980px;
+  height: 200px;
+  justify-content: center;
+}
+.image{
+  border-radius: 4%
+  ;
+}
